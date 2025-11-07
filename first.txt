@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-
-=======
-Hello There , This is the new leaf  conflict  commit.
->>>>>>> leaf
-
-This is the new commit on leaf branch.
+Hello There , This is the new leaf  conflict  commit..
