@@ -1,3 +1,7 @@
-Hello There , This is the  super conflicted  commit.
+<<<<<<< HEAD
+
+=======
+Hello There , This is the new leaf  conflict  commit.
+>>>>>>> leaf
 
 This is the new commit on leaf branch.
